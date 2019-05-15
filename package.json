@@ -1,0 +1,23 @@
+{
+  "name": "dius-coding-tests",
+  "version": "1.0.0",
+  "description": "dius coding test for a tennis scoring system",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheekongtan/coding-tests.git"
+  },
+  "author": "chee kong tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheekongtan/coding-tests/issues"
+  },
+  "homepage": "https://github.com/cheekongtan/coding-tests#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
